@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Doston👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Ozodbek👨‍💻&center=true&size=30">
   </a>
 </h1>
 
@@ -58,10 +58,10 @@
 <hr>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ozodbek2129&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ozodbek2129&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ozodbek2129&theme=cobalt2)
 
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=dostonshernazarov&style=for-the-badge" alt="dostonshernazarov" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Ozodbek2129&style=for-the-badge" alt="Ozodbek2129" />
 </div>
