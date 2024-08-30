@@ -12,7 +12,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/ozodbek-shamsiddinov-80a508264/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozodbek-shamsiddinov-80a508264/" /> </a>
     <a href="https://www.instagram.com/ozod_bek_1504/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ozod_bek_1504/"/> </a>
-    <a href = "mailto:ozodbekshamsiddinov1504@mail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+    <a href = "mailto:ozodbekshamsiddinov1504@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
     <a href="https://t.me/ozod_bek_1504"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
   </p>
   
